@@ -1,3 +1,3 @@
 **Data Exploration**
 
-A typical data analysis with haberman dataset
+A practical guide to data analysis with haberman dataset
