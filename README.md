@@ -1,3 +1,3 @@
-**Data Exploration**
+<h1>Data Exploration</h2>
 
-A practical guide to data analysis with haberman dataset.
+A practical guide to data analysis on different datasets
